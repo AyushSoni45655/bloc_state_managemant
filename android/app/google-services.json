@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669616595280",
+    "project_id": "apibloc-bfd18",
+    "storage_bucket": "apibloc-bfd18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669616595280:android:16a025b7c3012868decc55",
+        "android_client_info": {
+          "package_name": "com.example.api_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEZU-C9iyK2AhiqmO8e-p6WptwGEJV90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
